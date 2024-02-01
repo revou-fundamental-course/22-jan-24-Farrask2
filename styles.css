@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10;
+    padding: 10;
+  }
+  
+  header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: right;
+    
+  }
+  
+  header h1 {
+    font-size: 3em;
+    line-height: 1.2em;
+    margin: 0;
+    text-align: left;
+  }
+  header input{
+    align-items: center;
+  }
+  header p {
+    font-size: 1.2em;
+    margin: 0;
+  }
+  
+  main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 50px;
+  }
+  main p {
+    text-align: justify;
+    display: flex;
+    align-items: center;
+  }
+  
+  main h1{
+    align-items: center;
+  }
+  
+  section {
+    flex-basis: 30%;
+    margin-bottom: 20px;
+    background-color: dimgrey;
+  }
+  
+  section h2 {
+    font-size: 1.5em;
+    margin-top: 0;
+    
+    
+  }
+  
+  section p {
+    margin-bottom: 50px;
+    display: flex;
+    align-items: center;
+   
+  }
+  main image{
+    display: flex;
+    align-items: left;
+    
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 5px;
+  }
+  
+  input, select, button {
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  .contact{ 
+    background-color: dimgray;
+  }
+  footer {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  footer p {
+    font-size: 0.8em;
+    margin: 0;
+  }
+  main h2{
+    text-align: center;
+  }
+  main p{
+    text-align: center;
+  }
